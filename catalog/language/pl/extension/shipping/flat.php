@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title']       = 'Flat Rate';
-$_['text_description'] = 'Flat Shipping Rate';
+$_['text_title']       = 'Jednolita stawka';
+$_['text_description'] = 'Jednolita opłata za dostawę';

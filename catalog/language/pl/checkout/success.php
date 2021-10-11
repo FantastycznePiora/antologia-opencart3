@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']        = 'Your order has been placed!';
+$_['heading_title']        = 'Dostaliśmy Twoje zamówienie!';
 
 // Text
-$_['text_basket']          = 'Shopping Cart';
-$_['text_checkout']        = 'Checkout';
-$_['text_success']         = 'Success';
-$_['text_customer']        = '<p>Your order has been successfully processed!</p><p>You can view your order history by going to the <a href="%s">my account</a> page and by clicking on <a href="%s">history</a>.</p><p>If your purchase has an associated download, you can go to the account <a href="%s">downloads</a> page to view them.</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
-$_['text_guest']           = '<p>Your order has been successfully processed!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
+$_['text_basket']          = 'Koszyk';
+$_['text_checkout']        = 'Podsumowanie';
+$_['text_success']         = 'Sukces';
+$_['text_customer']        = '<p>Dostaliśmy Twoje zamowienie!</p><p>Możesz wyświetlić jego szczegóły poprzez <a href="%s">swoje konto</a> i wybranie zakładaki <a href="%s">historia</a>.</p><p> Jeżeli zamówienie zawiera pliki do pobrania, odwiedź stronę <a href="%s">Pobrania</a>, aby je wyświetlić.</p><p>Wszystkie ewentualne pytania prosimy kierować do <a href="%s">właściciela sklepu</a>.</p><p>Dziękujemy za dokonanie zakupu!</p>';
+$_['text_guest']           = '<p>Dostaliśmy Twoje zamowienie!</p><p>Wszystkie ewentualne pytania prosimy kierować do <a href="%s">właściciela sklepu</a>.</p><p>Dziękujemy za dokonanie zakupu!</p>';

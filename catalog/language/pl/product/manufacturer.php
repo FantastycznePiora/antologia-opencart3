@@ -1,27 +1,27 @@
 <?php
 // Heading
-$_['heading_title']     = 'Find Your Favorite Brand';
+$_['heading_title']     = 'Znajdź swoją ulubioną markę';
 
 // Text
-$_['text_brand']        = 'Brand';
-$_['text_index']        = 'Brand Index:';
-$_['text_error']        = 'Brand not found!';
-$_['text_empty']        = 'There are no products to list.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_points']       = 'Reward Points:';
-$_['text_price']        = 'Price:';
-$_['text_tax']          = 'Ex Tax:';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
+$_['text_brand']        = 'Marka';
+$_['text_index']        = 'Indeks marki:';
+$_['text_error']        = 'Marka nie znaleziona!';
+$_['text_empty']        = 'Nie ma żadnych produktów na liście.';
+$_['text_quantity']     = 'Liczba:';
+$_['text_manufacturer'] = 'Marka:';
+$_['text_model']        = 'Kod produktu:';
+$_['text_points']       = 'Punkty nagród:';
+$_['text_price']        = 'Cena:';
+$_['text_tax']          = 'Podatek:';
+$_['text_compare']      = 'Porównanie produktów (%s)';
+$_['text_sort']         = 'Sortuj:';
+$_['text_default']      = 'Domyślnie';
+$_['text_name_asc']     = 'Nazwa (A - Z)';
+$_['text_name_desc']    = 'Nazwa (Z - A)';
+$_['text_price_asc']    = 'Cena (Najniższa &gt; Najwyższa)';
+$_['text_price_desc']   = 'Cena (Najwyższa &gt; Najniższa)';
+$_['text_rating_asc']   = 'Ocena (Najniższa)';
+$_['text_rating_desc']  = 'Ocena (Najwyższa)';
 $_['text_model_asc']    = 'Model (A - Z)';
 $_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_limit']        = 'Pokaż:';

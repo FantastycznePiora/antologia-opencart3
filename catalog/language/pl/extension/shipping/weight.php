@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title']  = 'Weight Based Shipping';
-$_['text_weight'] = 'Weight:';
+$_['text_title']  = 'Przesyłka pocztą lub do paczkomatu Inpost';
+$_['text_weight'] = 'waga:';
